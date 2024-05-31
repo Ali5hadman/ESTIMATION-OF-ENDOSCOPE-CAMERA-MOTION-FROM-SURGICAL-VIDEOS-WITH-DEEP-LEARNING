@@ -9,3 +9,5 @@ BLue Trajectory: Transfer Learning model prediction
 Red Trajectory: Custom network prediction 
 
 ![image](https://github.com/Ali5hadman/Estimation-of-endoscope-camera-motion-from-surgical-videos-with-deep-learning/assets/68865941/017670c7-0a73-47c5-b091-84157b2ed5c3)
+
+![image](https://github.com/Ali5hadman/Estimation-of-endoscope-camera-motion-from-surgical-videos-with-deep-learning/assets/68865941/35539faa-6685-4015-9e7b-811b70401219)
