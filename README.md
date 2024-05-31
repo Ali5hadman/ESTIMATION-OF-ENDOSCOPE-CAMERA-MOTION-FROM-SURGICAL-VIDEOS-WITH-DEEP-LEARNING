@@ -5,7 +5,7 @@ The primary objective of this project is to develop an advanced AI model designe
 ![image](https://github.com/Ali5hadman/Estimation-of-endoscope-camera-motion-from-surgical-videos-with-deep-learning/assets/68865941/2b811e24-3e05-4b29-8645-f9c0f7da46b2)
 
 Green Trajectory: Ground Truth Trajectory -- 
-BLue Trajectory: Transfer Learning model prediction --   
+Blue Trajectory: Transfer Learning model prediction --   
 Red Trajectory: Custom network prediction -- 
 
 ![image](https://github.com/Ali5hadman/Estimation-of-endoscope-camera-motion-from-surgical-videos-with-deep-learning/assets/68865941/017670c7-0a73-47c5-b091-84157b2ed5c3)
